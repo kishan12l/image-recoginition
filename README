@@ -1,0 +1,13 @@
+## IMAGE PREDICTION AI MODEL
+
+##Install necessary packages
+>tensorflow
+>pandas
+>numpy
+>sklearn
+>keras
+
+#train the model using a image dataset of your choice 
+Note: here i have taken car dataset
+
+#test it using the test data
